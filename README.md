@@ -1,3 +1,8 @@
+
+
+Modified Code for - [Techparknews](http://www.techparknews.in/)
+# Original Read me follows
+
 # hsnews
 
 A [Hacker News](http://news.ycombinator.com) clone written in [Clojure](http://clojure.org) using [Noir](http://webnoir.org).
